@@ -1,4 +1,4 @@
-# Simple Maven Project by Dilip
+# Simple Maven Project by DILIP
 
 ## A Maven Project used for Jenkins Training.
 
